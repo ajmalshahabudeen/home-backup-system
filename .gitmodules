@@ -1,3 +1,12 @@
 [submodule "home-backup-system-website"]
 	path = home-backup-system-website
 	url = https://github.com/ajmalshahabudeen/home-backup-system-website.git
+[submodule "home-backup-system-server"]
+	path = home-backup-system-server
+	url = https://github.com/ajmalshahabudeen/home-backup-system-server.git
+[submodule "home-backup-system-mobile"]
+	path = home-backup-system-mobile
+	url = https://github.com/ajmalshahabudeen/home-backup-system-mobile.git
+[submodule "home-backup-system-desktop"]
+	path = home-backup-system-desktop
+	url = https://github.com/ajmalshahabudeen/home-backup-system-desktop.git
